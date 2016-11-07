@@ -69,9 +69,10 @@ TODO: Move this to the e-mission repo and rename it something like e-mission-ana
    
    Note that this has to be the _absolute_ not the _relative_ path - e.g. `/Users/.../e-mission-server`. For some reason, relative paths such as `../e-mission-server` DO NOT WORK. 
 
-2. Open the `analysis_spring_2016/Pull_entries_from_server` notebook. You will use this to pull data from the server as needed.
-   
-2. Open one of the notebooks in `analysis_spring_2016`
+2. Open the `analysis_spring_2016/00_Pull_entries_from_server` notebook. You will use this to pull data from the server as needed.
+
+
+4. Open the notebooks in `analysis_spring_2016` in order and run them.
 
 3. Load the data if needed. We have data for
   a. three states - moving, loitering and stationary and
@@ -82,4 +83,4 @@ TODO: Move this to the e-mission repo and rename it something like e-mission-ana
   For example, `Filtered high accuracy map visualization (moving)`, uses `('moving', 'high+1sec')`, since it has the line `if key[0] == 'moving' and key[1] == 'high+1sec'`, so you would need to run cell #8 from the loading notebook.
   Note that once you have loaded the `('moving', 'high+1sec')` data, it can be reused until the local database is purged.
   
-4. Run the notebook and look at the results!
+4. Try to understand the story in the notebook results!
