@@ -1,0 +1,1243 @@
+1460474093,2016-04-12T08:14:50.231319-07:00,invalid,high-vs-balanced-vs-none+1sec-vs-30sec,best-vs-10m-vs-100m-vs-none+100m
+[
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a02"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0849429, 
+                37.3915227
+            ]
+        }, 
+        "end_ts": 1459288014.916, 
+        "start_ts": 1459279034.7, 
+        "start_fmt_time": "2016-03-29T12:17:14.700000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2587865, 
+                37.8755195
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fc874888f6632f7025af19"
+        }, 
+        "end_fmt_time": "2016-03-29T14:46:54.916000-07:00", 
+        "end_local_dt": {
+            "$date": 1459262814916
+        }, 
+        "duration": 8980.21599984169, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a01"
+        }, 
+        "start_local_dt": {
+            "$date": 1459253834700
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a04"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2588751, 
+                37.8757157
+            ]
+        }, 
+        "end_ts": 1459290349.725, 
+        "start_ts": 1459290023.765, 
+        "start_fmt_time": "2016-03-29T15:20:23.765000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2588308, 
+                37.875692
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a02"
+        }, 
+        "end_fmt_time": "2016-03-29T15:25:49.725000-07:00", 
+        "end_local_dt": {
+            "$date": 1459265149725
+        }, 
+        "duration": 325.9599997997284, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a03"
+        }, 
+        "start_local_dt": {
+            "$date": 1459264823765
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a06"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2588308, 
+                37.875692
+            ]
+        }, 
+        "end_ts": 1459301884.713, 
+        "start_ts": 1459290796.788, 
+        "start_fmt_time": "2016-03-29T15:33:16.788000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.260556, 
+                37.8746428
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a04"
+        }, 
+        "end_fmt_time": "2016-03-29T18:38:04.713000-07:00", 
+        "end_local_dt": {
+            "$date": 1459276684713
+        }, 
+        "duration": 11087.924999952316, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a05"
+        }, 
+        "start_local_dt": {
+            "$date": 1459265596788
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a08"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2614618, 
+                37.8734679
+            ]
+        }, 
+        "end_ts": 1459302025.766, 
+        "start_ts": 1459302010.722, 
+        "start_fmt_time": "2016-03-29T18:40:10.722000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.261636, 
+                37.8732995
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a06"
+        }, 
+        "end_fmt_time": "2016-03-29T18:40:25.766000-07:00", 
+        "end_local_dt": {
+            "$date": 1459276825766
+        }, 
+        "duration": 15.044000148773193, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a07"
+        }, 
+        "start_local_dt": {
+            "$date": 1459276810722
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a0a"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2632112, 
+                37.8725662
+            ]
+        }, 
+        "end_ts": 1459310790.275, 
+        "start_ts": 1459302150.685, 
+        "start_fmt_time": "2016-03-29T18:42:30.685000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0865296, 
+                37.3910769
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a08"
+        }, 
+        "end_fmt_time": "2016-03-29T21:06:30.275000-07:00", 
+        "end_local_dt": {
+            "$date": 1459285590275
+        }, 
+        "duration": 8639.590000152588, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a09"
+        }, 
+        "start_local_dt": {
+            "$date": 1459276950685
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a0c"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0863631, 
+                37.391018
+            ]
+        }, 
+        "end_ts": 1459346621.843, 
+        "start_ts": 1459346531.766, 
+        "start_fmt_time": "2016-03-30T07:02:11.766000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0863967, 
+                37.3906973
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a0a"
+        }, 
+        "end_fmt_time": "2016-03-30T07:03:41.843000-07:00", 
+        "end_local_dt": {
+            "$date": 1459321421843
+        }, 
+        "duration": 90.07699990272522, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a0b"
+        }, 
+        "start_local_dt": {
+            "$date": 1459321331766
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a0e"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0853867, 
+                37.3925137
+            ]
+        }, 
+        "end_ts": 1459373082.464, 
+        "start_ts": 1459372435.019, 
+        "start_fmt_time": "2016-03-30T14:13:55.019000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0841276, 
+                37.4035127
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a0c"
+        }, 
+        "end_fmt_time": "2016-03-30T14:24:42.464000-07:00", 
+        "end_local_dt": {
+            "$date": 1459347882464
+        }, 
+        "duration": 647.4449999332428, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a0d"
+        }, 
+        "start_local_dt": {
+            "$date": 1459347235019
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a10"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0848541, 
+                37.4031009
+            ]
+        }, 
+        "end_ts": 1459377221.654, 
+        "start_ts": 1459376487.67, 
+        "start_fmt_time": "2016-03-30T15:21:27.670000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0864075, 
+                37.3910422
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a0e"
+        }, 
+        "end_fmt_time": "2016-03-30T15:33:41.654000-07:00", 
+        "end_local_dt": {
+            "$date": 1459352021654
+        }, 
+        "duration": 733.9839999675751, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a0f"
+        }, 
+        "start_local_dt": {
+            "$date": 1459351287670
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a12"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0865746, 
+                37.3910176
+            ]
+        }, 
+        "end_ts": 1459377792.708, 
+        "start_ts": 1459377705.308, 
+        "start_fmt_time": "2016-03-30T15:41:45.308000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0863758, 
+                37.3907351
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a10"
+        }, 
+        "end_fmt_time": "2016-03-30T15:43:12.708000-07:00", 
+        "end_local_dt": {
+            "$date": 1459352592708
+        }, 
+        "duration": 87.39999985694885, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a11"
+        }, 
+        "start_local_dt": {
+            "$date": 1459352505308
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a14"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0870754, 
+                37.3900068
+            ]
+        }, 
+        "end_ts": 1459381061.978, 
+        "start_ts": 1459379998.943, 
+        "start_fmt_time": "2016-03-30T16:19:58.943000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0930896, 
+                37.364948
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a12"
+        }, 
+        "end_fmt_time": "2016-03-30T16:37:41.978000-07:00", 
+        "end_local_dt": {
+            "$date": 1459355861978
+        }, 
+        "duration": 1063.034999847412, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a13"
+        }, 
+        "start_local_dt": {
+            "$date": 1459354798943
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a16"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0927757, 
+                37.3646379
+            ]
+        }, 
+        "end_ts": 1459382801.94, 
+        "start_ts": 1459382728.528, 
+        "start_fmt_time": "2016-03-30T17:05:28.528000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0930567, 
+                37.3648559
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a14"
+        }, 
+        "end_fmt_time": "2016-03-30T17:06:41.940000-07:00", 
+        "end_local_dt": {
+            "$date": 1459357601940
+        }, 
+        "duration": 73.41199994087219, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a15"
+        }, 
+        "start_local_dt": {
+            "$date": 1459357528528
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a18"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0919996, 
+                37.3646672
+            ]
+        }, 
+        "end_ts": 1459383048.429, 
+        "start_ts": 1459382985.072, 
+        "start_fmt_time": "2016-03-30T17:09:45.072000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0921328, 
+                37.3645894
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a16"
+        }, 
+        "end_fmt_time": "2016-03-30T17:10:48.429000-07:00", 
+        "end_local_dt": {
+            "$date": 1459357848429
+        }, 
+        "duration": 63.35699987411499, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a17"
+        }, 
+        "start_local_dt": {
+            "$date": 1459357785072
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a1a"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0910779, 
+                37.365053
+            ]
+        }, 
+        "end_ts": 1459387420.68, 
+        "start_ts": 1459385843.05, 
+        "start_fmt_time": "2016-03-30T17:57:23.050000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.081836, 
+                37.3893867
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a18"
+        }, 
+        "end_fmt_time": "2016-03-30T18:23:40.680000-07:00", 
+        "end_local_dt": {
+            "$date": 1459362220680
+        }, 
+        "duration": 1577.630000114441, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a19"
+        }, 
+        "start_local_dt": {
+            "$date": 1459360643050
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a1c"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0817916, 
+                37.3897378
+            ]
+        }, 
+        "end_ts": 1459389710.277, 
+        "start_ts": 1459388261.527, 
+        "start_fmt_time": "2016-03-30T18:37:41.527000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.081836, 
+                37.3893867
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a1a"
+        }, 
+        "end_fmt_time": "2016-03-30T19:01:50.277000-07:00", 
+        "end_local_dt": {
+            "$date": 1459364510277
+        }, 
+        "duration": 1448.75, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a1b"
+        }, 
+        "start_local_dt": {
+            "$date": 1459363061527
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a1e"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0830502, 
+                37.3896419
+            ]
+        }, 
+        "end_ts": 1459403853.392, 
+        "start_ts": 1459403297.862, 
+        "start_fmt_time": "2016-03-30T22:48:17.862000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0862012, 
+                37.3909511
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a1c"
+        }, 
+        "end_fmt_time": "2016-03-30T22:57:33.392000-07:00", 
+        "end_local_dt": {
+            "$date": 1459378653392
+        }, 
+        "duration": 555.5299999713898, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a1d"
+        }, 
+        "start_local_dt": {
+            "$date": 1459378097862
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a20"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0854625, 
+                37.3915776
+            ]
+        }, 
+        "end_ts": 1459448072.097, 
+        "start_ts": 1459448055.125, 
+        "start_fmt_time": "2016-03-31T11:14:15.125000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0852301, 
+                37.3914682
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a1e"
+        }, 
+        "end_fmt_time": "2016-03-31T11:14:32.097000-07:00", 
+        "end_local_dt": {
+            "$date": 1459422872097
+        }, 
+        "duration": 16.971999883651733, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a1f"
+        }, 
+        "start_local_dt": {
+            "$date": 1459422855125
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a22"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0831231, 
+                37.3907604
+            ]
+        }, 
+        "end_ts": 1459456368.01, 
+        "start_ts": 1459448229.088, 
+        "start_fmt_time": "2016-03-31T11:17:09.088000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2585206, 
+                37.8751542
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a20"
+        }, 
+        "end_fmt_time": "2016-03-31T13:32:48.010000-07:00", 
+        "end_local_dt": {
+            "$date": 1459431168010
+        }, 
+        "duration": 8138.921999931335, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a21"
+        }, 
+        "start_local_dt": {
+            "$date": 1459423029088
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a24"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2586092, 
+                37.8755736
+            ]
+        }, 
+        "end_ts": 1459466346.414, 
+        "start_ts": 1459466268.046, 
+        "start_fmt_time": "2016-03-31T16:17:48.046000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2585206, 
+                37.8756008
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a22"
+        }, 
+        "end_fmt_time": "2016-03-31T16:19:06.414000-07:00", 
+        "end_local_dt": {
+            "$date": 1459441146414
+        }, 
+        "duration": 78.36800003051758, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a23"
+        }, 
+        "start_local_dt": {
+            "$date": 1459441068046
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a26"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2600272, 
+                37.87514
+            ]
+        }, 
+        "end_ts": 1459475635.583, 
+        "start_ts": 1459471440.045, 
+        "start_fmt_time": "2016-03-31T17:44:00.045000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.386638, 
+                37.5998959
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a24"
+        }, 
+        "end_fmt_time": "2016-03-31T18:53:55.583000-07:00", 
+        "end_local_dt": {
+            "$date": 1459450435583
+        }, 
+        "duration": 4195.537999868393, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a25"
+        }, 
+        "start_local_dt": {
+            "$date": 1459446240045
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56fdf7a088f6637857885a28"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.385797, 
+                37.5981009
+            ]
+        }, 
+        "end_ts": 1459479464.073, 
+        "start_ts": 1459475983.951, 
+        "start_fmt_time": "2016-03-31T18:59:43.951000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0863588, 
+                37.3908175
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a26"
+        }, 
+        "end_fmt_time": "2016-03-31T19:57:44.073000-07:00", 
+        "end_local_dt": {
+            "$date": 1459454264073
+        }, 
+        "duration": 3480.121999979019, 
+        "_id": {
+            "$oid": "56fdf7a088f6637857885a27"
+        }, 
+        "start_local_dt": {
+            "$date": 1459450783951
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56feefb088f6635cb33e0d20"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0865384, 
+                37.3909443
+            ]
+        }, 
+        "end_ts": 1459516033.145, 
+        "start_ts": 1459515978.147, 
+        "start_fmt_time": "2016-04-01T06:06:18.147000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0863631, 
+                37.3909431
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56fdf7a088f6637857885a28"
+        }, 
+        "end_fmt_time": "2016-04-01T06:07:13.145000-07:00", 
+        "end_local_dt": {
+            "$date": 1459490833145
+        }, 
+        "duration": 54.99799990653992, 
+        "_id": {
+            "$oid": "56feefb088f6635cb33e0d1f"
+        }, 
+        "start_local_dt": {
+            "$date": 1459490778147
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56feefb088f6635cb33e0d22"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0852092, 
+                37.3915172
+            ]
+        }, 
+        "end_ts": 1459541675.602, 
+        "start_ts": 1459534773.655, 
+        "start_fmt_time": "2016-04-01T11:19:33.655000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2682008, 
+                37.8701407
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56feefb088f6635cb33e0d20"
+        }, 
+        "end_fmt_time": "2016-04-01T13:14:35.602000-07:00", 
+        "end_local_dt": {
+            "$date": 1459516475602
+        }, 
+        "duration": 6901.947000026703, 
+        "_id": {
+            "$oid": "56feefb088f6635cb33e0d21"
+        }, 
+        "start_local_dt": {
+            "$date": 1459509573655
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56ff19bf88f66333db7d8ca9"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2653042, 
+                37.8703364
+            ]
+        }, 
+        "end_ts": 1459542662.998, 
+        "start_ts": 1459541976.525, 
+        "start_fmt_time": "2016-04-01T13:19:36.525000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2585657, 
+                37.8751698
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56feefb088f6635cb33e0d22"
+        }, 
+        "end_fmt_time": "2016-04-01T13:31:02.998000-07:00", 
+        "end_local_dt": {
+            "$date": 1459517462998
+        }, 
+        "duration": 686.4729998111725, 
+        "_id": {
+            "$oid": "56ff19bf88f66333db7d8ca8"
+        }, 
+        "start_local_dt": {
+            "$date": 1459516776525
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56ff19bf88f66333db7d8cab"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2585206, 
+                37.875452
+            ]
+        }, 
+        "end_ts": 1459544487.425, 
+        "start_ts": 1459544367.31, 
+        "start_fmt_time": "2016-04-01T13:59:27.310000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2585206, 
+                37.875452
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56ff19bf88f66333db7d8ca9"
+        }, 
+        "end_fmt_time": "2016-04-01T14:01:27.425000-07:00", 
+        "end_local_dt": {
+            "$date": 1459519287425
+        }, 
+        "duration": 120.11500000953674, 
+        "_id": {
+            "$oid": "56ff19bf88f66333db7d8caa"
+        }, 
+        "start_local_dt": {
+            "$date": 1459519167310
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56ff19bf88f66333db7d8cad"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -120.0500501, 
+                37.5424487
+            ]
+        }, 
+        "end_ts": 1459546630.7, 
+        "start_ts": 1459545597.973, 
+        "start_fmt_time": "2016-04-01T14:19:57.973000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2585649, 
+                37.8755499
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56ff19bf88f66333db7d8cab"
+        }, 
+        "end_fmt_time": "2016-04-01T14:37:10.700000-07:00", 
+        "end_local_dt": {
+            "$date": 1459521430700
+        }, 
+        "duration": 1032.7269999980927, 
+        "_id": {
+            "$oid": "56ff19bf88f66333db7d8cac"
+        }, 
+        "start_local_dt": {
+            "$date": 1459520397973
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "56ff520b88f6632650f575ed"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.2601158, 
+                37.8751129
+            ]
+        }, 
+        "end_ts": 1459565397.554, 
+        "start_ts": 1459558085.806, 
+        "start_fmt_time": "2016-04-01T17:48:05.806000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0865896, 
+                37.3907793
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56ff19bf88f66333db7d8cad"
+        }, 
+        "end_fmt_time": "2016-04-01T19:49:57.554000-07:00", 
+        "end_local_dt": {
+            "$date": 1459540197554
+        }, 
+        "duration": 7311.74799990654, 
+        "_id": {
+            "$oid": "56ff520b88f6632650f575ec"
+        }, 
+        "start_local_dt": {
+            "$date": 1459532885806
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "5700410f88f663618cb911f4"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0863121, 
+                37.3900973
+            ]
+        }, 
+        "end_ts": 1459627223.725, 
+        "start_ts": 1459627201.973, 
+        "start_fmt_time": "2016-04-02T13:00:01.973000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0860734, 
+                37.3899931
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "56ff520b88f6632650f575ed"
+        }, 
+        "end_fmt_time": "2016-04-02T13:00:23.725000-07:00", 
+        "end_local_dt": {
+            "$date": 1459602023725
+        }, 
+        "duration": 21.751999855041504, 
+        "_id": {
+            "$oid": "5700410f88f663618cb911f3"
+        }, 
+        "start_local_dt": {
+            "$date": 1459602001973
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "5700410f88f663618cb911f6"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0842718, 
+                37.3902948
+            ]
+        }, 
+        "end_ts": 1459628363.453, 
+        "start_ts": 1459627391.321, 
+        "start_fmt_time": "2016-04-02T13:03:11.321000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.086482, 
+                37.3901468
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "5700410f88f663618cb911f4"
+        }, 
+        "end_fmt_time": "2016-04-02T13:19:23.453000-07:00", 
+        "end_local_dt": {
+            "$date": 1459603163453
+        }, 
+        "duration": 972.1319999694824, 
+        "_id": {
+            "$oid": "5700410f88f663618cb911f5"
+        }, 
+        "start_local_dt": {
+            "$date": 1459602191321
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "57030e6688f663650452f843"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0862744, 
+                37.3908949
+            ]
+        }, 
+        "end_ts": 1459647499.553, 
+        "start_ts": 1459647456.14, 
+        "start_fmt_time": "2016-04-02T18:37:36.140000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0866787, 
+                37.3909991
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "5700410f88f663618cb911f6"
+        }, 
+        "end_fmt_time": "2016-04-02T18:38:19.553000-07:00", 
+        "end_local_dt": {
+            "$date": 1459622299553
+        }, 
+        "duration": 43.412999868392944, 
+        "_id": {
+            "$oid": "57030e6688f663650452f842"
+        }, 
+        "start_local_dt": {
+            "$date": 1459622256140
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "57030e6688f663650452f845"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0825905, 
+                37.3883709
+            ]
+        }, 
+        "end_ts": 1459816060.771, 
+        "start_ts": 1459815735.552, 
+        "start_fmt_time": "2016-04-04T17:22:15.552000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0764209, 
+                37.386448
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "57030e6688f663650452f843"
+        }, 
+        "end_fmt_time": "2016-04-04T17:27:40.771000-07:00", 
+        "end_local_dt": {
+            "$date": 1459790860771
+        }, 
+        "duration": 325.2189998626709, 
+        "_id": {
+            "$oid": "57030e6688f663650452f844"
+        }, 
+        "start_local_dt": {
+            "$date": 1459790535552
+        }
+    }, 
+    {
+        "end_place": {
+            "$oid": "57031c7c88f66303faa1c5c0"
+        }, 
+        "user_id": {
+            "$uuid": "0763de67f61e3f5d90e7518e69793954"
+        }, 
+        "start_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0770423, 
+                37.3881357
+            ]
+        }, 
+        "end_ts": 1459817410.993, 
+        "start_ts": 1459817004.155, 
+        "start_fmt_time": "2016-04-04T17:43:24.155000-07:00", 
+        "end_loc": {
+            "type": "Point", 
+            "coordinates": [
+                -122.0865555, 
+                37.3910638
+            ]
+        }, 
+        "source": "DwellSegmentationTimeFilter", 
+        "start_place": {
+            "$oid": "57030e6688f663650452f845"
+        }, 
+        "end_fmt_time": "2016-04-04T17:50:10.993000-07:00", 
+        "end_local_dt": {
+            "$date": 1459792210993
+        }, 
+        "duration": 406.8380000591278, 
+        "_id": {
+            "$oid": "57031c7c88f66303faa1c5bf"
+        }, 
+        "start_local_dt": {
+            "$date": 1459791804155
+        }
+    }
+]
